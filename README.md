@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ernest
 #### I am AI Engineer
-![I am AI Engineer](https://ideogram.ai/api/images/direct/0EgqIUGATQ6qB_YXZJQ--Q.png)
+![App Screenshot](https://github.com/MorningStarTM/MorningStarTM/blob/main/AI_wizard.jpeg?raw=true)
 
 Hi there! I'm Ernest, a passionate and dedicated AI Engineer with a focus on machine learning and data science. With a strong background in Python, PyTorch, and deep learning, I enjoy tackling challenging problems and building innovative solutions.
 

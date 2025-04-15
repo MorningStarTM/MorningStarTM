@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ernest
-#### I am Machhine Learning Engineer
+#### I am Machine Learning Engineer
 # 💫 About Me:
     🔭 I’m currently working on Reinforcement Learning   
     🌱 I’m currently learning Rust  

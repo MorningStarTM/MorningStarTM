@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Ernest
-#### I am Machine Learning Engineer
+### Hi there 👋, My name is Ernest
+#### I am Machine Learning Engineer and Independent Researcher
 # 💫 About Me:
     🔭 I’m currently working on Reinforcement Learning   
-    🌱 I’m currently learning Rust  
+    🌱 I’m currently researching on Reinforcement Learning, language-guided RL and AI in power grid  
     💬 Ask me about Machine Learning, Deep Learning and LLM  
     📫 How to reach me: ernestbeckham7324@gmail.com
 

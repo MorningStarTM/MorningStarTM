@@ -5,6 +5,7 @@
     🌱 I’m currently researching on Reinforcement Learning, language-guided RL and AI in power grid  
     💬 Ask me about Machine Learning, Deep Learning and LLM  
     📫 How to reach me: ernestbeckham7324@gmail.com
+    😂 I write code best with a glass of whisky nearby—debugging included.
 
 
 ## 🌐 Socials:

@@ -15,7 +15,7 @@
 - **L2RPN** — RL approaches for power grid control
 
 ### 🌱 Research interests
-Reinforcement learning, language-guided RL, and motion/pose foundation models. Currently building a DIY IMU-based mocap suit (ESP32 + MPU-6050) to generate training data cheaply instead of using commercial mocap systems.
+Reinforcement learning, language-guided RL, and motion/pose foundation models. 
 
 ### 💬 Ask me about
 Machine Learning, Deep Learning, Reinforcement Learning, LLMs
